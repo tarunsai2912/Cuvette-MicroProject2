@@ -27,7 +27,7 @@
     width: 215px;
     color: #FFFFFF;
     position: relative;
-    top: 25px;
+    top: 10px;
     left: 44px;
 }
 .nav{
@@ -90,7 +90,7 @@
     transform: rotate(90deg);
     position: relative;
     top: 0px;
-    left: 6px;
+    left: 7px;
     font-size: x-large;
 }
 .search{
@@ -185,7 +185,7 @@
     column-gap: 4vw;
     margin-left: 8vw;
     width: 80vw;
-    height: 10vh;
+    height: 12vh;
 }
 .d1{
     grid-column: 1/2;
