@@ -28,7 +28,7 @@
     color: #FFFFFF;
     text-align: center;
     position: relative;
-    top: 10px;
+    top: 1.5vh;
     left: 44px;
 }
 .nav{
@@ -498,5 +498,5 @@ span{
 .arr{
     position: relative;
     height: 2vh;
-    top: 2px;
+    top: 0.5vh;
 }
